@@ -1,7 +1,5 @@
 # LEGOBOT MK1 PROTOTYPE
 
-Note to self: Add tags here?
-
 My first simple homemade robotics application using Raspberry Pi and LEGO platform.
 Started: Mar 2016
 
@@ -16,7 +14,7 @@ Published and maintained by **Andrew Knight**
 
 ## Version History
 
-Current Project Version is 0.1. Full version history can be found in the HISTORY file.
+Current Project Version is 1.0.
 
 ## Copyright and License
 
